@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  background: rgb(204, 204, 204);
+  font-size: 13px;
+}
+
+.A4 {
+  background: white;
+  display: block;
+  margin: 50px auto;
+  margin-bottom: 0.5cm;
+  box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+  padding: 50px;
+  position: relative;
+}
+
+th.logo {
+  width: 50%;
+}
+
+table {
+  width: 100%;
+  border-spacing: 0px;
+}
+
+.A4 {
+  width: 20cm;
+  height: 29.7cm;
+}
+
+.A4 .logo img {
+  width: 200px;
+}
+
+.center {
+  text-align: center;
+}
+
+.porcentaje {
+  width: 45%;
+  text-decoration: line;
+}
+.porcentaje1 {
+  width: 22%;
+}
+
+img.qr {
+  width: 100px;
+}
+
+.datos {
+  width: 25%;
+}
+
+.back {
+  background-color: #7aa6bd71;
+  border-right: 1px solid white;
+  border-left: 1px solid white;
+  padding: 3px 0;
+}
+
+.back1 {
+  border: 2px solid #7aa6bd71;
+  padding: 3px 0;
+}
+
+.back2 {
+  background-color: #7aa6bd71;
+  padding-left: 10px;
+  font-weight: 600;
+}
+
+.alto {
+  height: 100px;
+  background-color: #69bf4a27;
+  border-right: 1px solid white;
+  border-left: 1px solid white;
+  padding-top: 5px;
+}
+
+.retencion {
+  width: 16.3%;
+}
+
+.marco1 {
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  padding-top: 10px;
+}
+.marco2 {
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+}
+.marco3 {
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+}
+.marco4 {
+  border-bottom: 2px solid black;
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  padding-bottom: 10px;
+}
+
+.derecha {
+  text-align: end;
+  font-weight: 600;
+}
+
+.footer {
+  width: 92%;
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 30px;
+}
